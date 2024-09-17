@@ -12,6 +12,7 @@ function App() {
   );
   const [activeFilter, setActiveFilter] = useState(() => (drink) => drink); //returns a 1 to 1 function
 
+  console.log('master master')
 
   console.log('hallå hallå')
   console.log('heja gnaget')
