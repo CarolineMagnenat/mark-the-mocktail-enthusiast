@@ -15,6 +15,7 @@ function App() {
   console.log('nummer två')
 
   console.log('master master')
+  console.log('cooolt och så vidare')
 
   console.log('hallå hallå')
   console.log('heja gnaget')
