@@ -14,6 +14,7 @@ function App() {
 
 
   console.log('hallå hallå')
+  console.log('heja gnaget')
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch(
